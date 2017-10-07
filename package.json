@@ -1,0 +1,26 @@
+{
+  "name": "anpr-github-privacy-check",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node -r dotenv/config bin/runner.js",
+    "start-debug": "GITHUB_ACCESS_TOKEN=04569770d416d2a159795e4549fd0b14558663e4 node-debug bin/runner.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gfornari/anpr-github-privacy-check.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gfornari/anpr-github-privacy-check/issues"
+  },
+  "homepage": "https://github.com/gfornari/anpr-github-privacy-check#readme",
+  "dependencies": {
+    "co": "^4.6.0",
+    "dotenv": "^4.0.0",
+    "graphql-request": "^1.4.0"
+  }
+}
