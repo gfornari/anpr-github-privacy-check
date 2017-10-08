@@ -10,8 +10,3 @@ pc.check({
   owner: 'gfornari',
   name: 'anpr-github-privacy-check-test',
 });
-
-
-// .then(res => console.log(util.inspect(res, { showHidden: true, depth: null })))
-
-// .catch(console.error);
