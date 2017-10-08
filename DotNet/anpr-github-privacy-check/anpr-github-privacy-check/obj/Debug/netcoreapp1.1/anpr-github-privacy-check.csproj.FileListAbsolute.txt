@@ -1,0 +1,10 @@
+C:\Users\DavideQuaglio\Documents\Visual Studio 2017\Projects\GraphQLSpike\GraphQLSpike\bin\Debug\netcoreapp1.1\anpr-github-privacy-check.deps.json
+C:\Users\DavideQuaglio\Documents\Visual Studio 2017\Projects\GraphQLSpike\GraphQLSpike\bin\Debug\netcoreapp1.1\anpr-github-privacy-check.runtimeconfig.json
+C:\Users\DavideQuaglio\Documents\Visual Studio 2017\Projects\GraphQLSpike\GraphQLSpike\bin\Debug\netcoreapp1.1\anpr-github-privacy-check.runtimeconfig.dev.json
+C:\Users\DavideQuaglio\Documents\Visual Studio 2017\Projects\GraphQLSpike\GraphQLSpike\bin\Debug\netcoreapp1.1\anpr-github-privacy-check.dll
+C:\Users\DavideQuaglio\Documents\Visual Studio 2017\Projects\GraphQLSpike\GraphQLSpike\bin\Debug\netcoreapp1.1\anpr-github-privacy-check.pdb
+C:\Users\DavideQuaglio\Documents\Visual Studio 2017\Projects\GraphQLSpike\GraphQLSpike\obj\Debug\netcoreapp1.1\anpr-github-privacy-check.csprojResolveAssemblyReference.cache
+C:\Users\DavideQuaglio\Documents\Visual Studio 2017\Projects\GraphQLSpike\GraphQLSpike\obj\Debug\netcoreapp1.1\anpr-github-privacy-check.csproj.CoreCompileInputs.cache
+C:\Users\DavideQuaglio\Documents\Visual Studio 2017\Projects\GraphQLSpike\GraphQLSpike\obj\Debug\netcoreapp1.1\anpr-github-privacy-check.AssemblyInfo.cs
+C:\Users\DavideQuaglio\Documents\Visual Studio 2017\Projects\GraphQLSpike\GraphQLSpike\obj\Debug\netcoreapp1.1\anpr-github-privacy-check.dll
+C:\Users\DavideQuaglio\Documents\Visual Studio 2017\Projects\GraphQLSpike\GraphQLSpike\obj\Debug\netcoreapp1.1\anpr-github-privacy-check.pdb

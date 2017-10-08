@@ -1,0 +1,10 @@
+C:\Users\DavideQuaglio\Documents\Visual Studio 2017\Projects\GraphQLSpike\GraphQLSpike\bin\Debug\netcoreapp1.1\GraphQLSpike.deps.json
+C:\Users\DavideQuaglio\Documents\Visual Studio 2017\Projects\GraphQLSpike\GraphQLSpike\bin\Debug\netcoreapp1.1\GraphQLSpike.runtimeconfig.json
+C:\Users\DavideQuaglio\Documents\Visual Studio 2017\Projects\GraphQLSpike\GraphQLSpike\bin\Debug\netcoreapp1.1\GraphQLSpike.runtimeconfig.dev.json
+C:\Users\DavideQuaglio\Documents\Visual Studio 2017\Projects\GraphQLSpike\GraphQLSpike\bin\Debug\netcoreapp1.1\GraphQLSpike.dll
+C:\Users\DavideQuaglio\Documents\Visual Studio 2017\Projects\GraphQLSpike\GraphQLSpike\obj\Debug\netcoreapp1.1\GraphQLSpike.csproj.CoreCompileInputs.cache
+C:\Users\DavideQuaglio\Documents\Visual Studio 2017\Projects\GraphQLSpike\GraphQLSpike\obj\Debug\netcoreapp1.1\GraphQLSpike.AssemblyInfo.cs
+C:\Users\DavideQuaglio\Documents\Visual Studio 2017\Projects\GraphQLSpike\GraphQLSpike\bin\Debug\netcoreapp1.1\GraphQLSpike.pdb
+C:\Users\DavideQuaglio\Documents\Visual Studio 2017\Projects\GraphQLSpike\GraphQLSpike\obj\Debug\netcoreapp1.1\GraphQLSpike.dll
+C:\Users\DavideQuaglio\Documents\Visual Studio 2017\Projects\GraphQLSpike\GraphQLSpike\obj\Debug\netcoreapp1.1\GraphQLSpike.pdb
+C:\Users\DavideQuaglio\Documents\Visual Studio 2017\Projects\GraphQLSpike\GraphQLSpike\obj\Debug\netcoreapp1.1\GraphQLSpike.csprojResolveAssemblyReference.cache

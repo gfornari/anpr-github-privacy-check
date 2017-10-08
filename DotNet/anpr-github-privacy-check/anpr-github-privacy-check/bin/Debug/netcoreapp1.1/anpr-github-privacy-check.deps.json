@@ -1,0 +1,261 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v1.1",
+    "signature": "4c81110e0199e559ee2d16bc15993840a6e5ca61"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v1.1": {
+      "anpr-github-privacy-check/1.0.0": {
+        "dependencies": {
+          "NUnit": "3.8.1",
+          "Newtonsoft.Json": "10.0.3",
+          "Octokit": "0.27.0",
+          "System.Reactive": "3.1.1"
+        },
+        "runtime": {
+          "anpr-github-privacy-check.dll": {}
+        }
+      },
+      "newtonsoft.json/10.0.3": {
+        "dependencies": {
+          "System.ComponentModel.TypeConverter": "4.3.0",
+          "System.Runtime.Serialization.Formatters": "4.3.0",
+          "System.Runtime.Serialization.Primitives": "4.3.0",
+          "System.Xml.XmlDocument": "4.3.0"
+        },
+        "runtime": {
+          "lib/netstandard1.3/Newtonsoft.Json.dll": {}
+        }
+      },
+      "nunit/3.8.1": {
+        "runtime": {
+          "lib/netstandard1.6/nunit.framework.dll": {}
+        }
+      },
+      "octokit/0.27.0": {
+        "runtime": {
+          "lib/netstandard1.1/Octokit.dll": {}
+        }
+      },
+      "system.collections.nongeneric/4.3.0": {
+        "runtime": {
+          "lib/netstandard1.3/System.Collections.NonGeneric.dll": {}
+        }
+      },
+      "system.collections.specialized/4.3.0": {
+        "dependencies": {
+          "System.Collections.NonGeneric": "4.3.0"
+        },
+        "runtime": {
+          "lib/netstandard1.3/System.Collections.Specialized.dll": {}
+        }
+      },
+      "system.componentmodel.primitives/4.3.0": {
+        "runtime": {
+          "lib/netstandard1.0/System.ComponentModel.Primitives.dll": {}
+        }
+      },
+      "system.componentmodel.typeconverter/4.3.0": {
+        "dependencies": {
+          "System.Collections.NonGeneric": "4.3.0",
+          "System.Collections.Specialized": "4.3.0",
+          "System.ComponentModel.Primitives": "4.3.0"
+        },
+        "runtime": {
+          "lib/netstandard1.5/System.ComponentModel.TypeConverter.dll": {}
+        }
+      },
+      "system.diagnostics.contracts/4.0.1": {
+        "runtime": {
+          "lib/netstandard1.0/System.Diagnostics.Contracts.dll": {}
+        }
+      },
+      "system.reactive/3.1.1": {
+        "dependencies": {
+          "System.Reactive.PlatformServices": "3.1.1"
+        }
+      },
+      "system.reactive.core/3.1.1": {
+        "dependencies": {
+          "System.Diagnostics.Contracts": "4.0.1",
+          "System.Reactive.Interfaces": "3.1.1"
+        },
+        "runtime": {
+          "lib/netcoreapp1.0/System.Reactive.Core.dll": {}
+        }
+      },
+      "system.reactive.interfaces/3.1.1": {
+        "runtime": {
+          "lib/netstandard1.0/System.Reactive.Interfaces.dll": {}
+        }
+      },
+      "system.reactive.linq/3.1.1": {
+        "dependencies": {
+          "System.Reactive.Core": "3.1.1",
+          "System.Runtime.InteropServices.WindowsRuntime": "4.0.1"
+        },
+        "runtime": {
+          "lib/netstandard1.3/System.Reactive.Linq.dll": {}
+        }
+      },
+      "system.reactive.platformservices/3.1.1": {
+        "dependencies": {
+          "System.Reactive.Linq": "3.1.1"
+        },
+        "runtime": {
+          "lib/netcoreapp1.0/System.Reactive.PlatformServices.dll": {}
+        }
+      },
+      "system.runtime.interopservices.windowsruntime/4.0.1": {
+        "runtime": {
+          "lib/netstandard1.3/System.Runtime.InteropServices.WindowsRuntime.dll": {}
+        }
+      },
+      "system.runtime.serialization.formatters/4.3.0": {
+        "dependencies": {
+          "System.Runtime.Serialization.Primitives": "4.3.0"
+        },
+        "runtime": {
+          "lib/netstandard1.4/System.Runtime.Serialization.Formatters.dll": {}
+        }
+      },
+      "system.runtime.serialization.primitives/4.3.0": {
+        "runtime": {
+          "lib/netstandard1.3/System.Runtime.Serialization.Primitives.dll": {}
+        }
+      },
+      "system.xml.xmldocument/4.3.0": {
+        "runtime": {
+          "lib/netstandard1.3/System.Xml.XmlDocument.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "anpr-github-privacy-check/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "newtonsoft.json/10.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hSXaFmh7hNCuEoC4XNY5DrRkLDzYHqPx/Ik23R4J86Z7PE/Y6YidhG602dFVdLBRSdG6xp9NabH3dXpcoxWvww==",
+      "path": "newtonsoft.json/10.0.3",
+      "hashPath": "newtonsoft.json.10.0.3.nupkg.sha512"
+    },
+    "nunit/3.8.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-q+juwqFVwJcTvxF5rOa+4RbEkFb8pWbTH7U1wkMw3cWiUiH1gGTegJemvuCODjtT7DSo73/iMhUqc2+TmM/Nng==",
+      "path": "nunit/3.8.1",
+      "hashPath": "nunit.3.8.1.nupkg.sha512"
+    },
+    "octokit/0.27.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rISGTO7QYOnd/+kF84w+JM+BPSke6y9ZZJ9ccQ36mjDUJuMDT+sQEI2I8xhdckOI9sEhX+iwMQ1+92VXRUub9Q==",
+      "path": "octokit/0.27.0",
+      "hashPath": "octokit.0.27.0.nupkg.sha512"
+    },
+    "system.collections.nongeneric/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Xv6n445vIJ9yFLSnPgnPAVpgEI5J3dHMXQs7xb9jvygiLCK4hL0R+VibM7T31yWeobeENlni6Wllgwh2yRAZ/A==",
+      "path": "system.collections.nongeneric/4.3.0",
+      "hashPath": "system.collections.nongeneric.4.3.0.nupkg.sha512"
+    },
+    "system.collections.specialized/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-sAwoSvmsCtBD0hpKdbcnNyBRo8lrglB3CQJLwUyYWkCKA80tnNO/VGQB2Yk8oCuCq82pvXHmQ8FplwxlLAr5Ow==",
+      "path": "system.collections.specialized/4.3.0",
+      "hashPath": "system.collections.specialized.4.3.0.nupkg.sha512"
+    },
+    "system.componentmodel.primitives/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ktRdqHhyPaQxQbJQ5NUdX5/2BrWlK4qycjtQgCr+3NRAVGcPagyzpJpgqO2+hgtlM7c/i2Z98u+1qH3hf9MdXg==",
+      "path": "system.componentmodel.primitives/4.3.0",
+      "hashPath": "system.componentmodel.primitives.4.3.0.nupkg.sha512"
+    },
+    "system.componentmodel.typeconverter/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-16pQ6P+EdhcXzPiEK4kbA953Fu0MNG2ovxTZU81/qsCd1zPRsKc3uif5NgvllCY598k6bI0KUyKW8fanlfaDQg==",
+      "path": "system.componentmodel.typeconverter/4.3.0",
+      "hashPath": "system.componentmodel.typeconverter.4.3.0.nupkg.sha512"
+    },
+    "system.diagnostics.contracts/4.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HvQQjy712vnlpPxaloZYkuE78Gn353L0SJLJVeLcNASeg9c4qla2a1Xq8I7B3jZoDzKPtHTkyVO7AZ5tpeQGuA==",
+      "path": "system.diagnostics.contracts/4.0.1",
+      "hashPath": "system.diagnostics.contracts.4.0.1.nupkg.sha512"
+    },
+    "system.reactive/3.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-elkQdVQoBVX39BHrYHMc3Rnbb7a9qBJIwNCvhq1psPMOEPo62/VHB0lJu671x3fOrGL4V/85n6p2Az1tw7Kvmg==",
+      "path": "system.reactive/3.1.1",
+      "hashPath": "system.reactive.3.1.1.nupkg.sha512"
+    },
+    "system.reactive.core/3.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-CKWC+UP1aM75taNX+sTBn2P97uHIUjKxq+z45iy7P91QGFqNFleR2tsqIC76HMVvYl7o8oWyMiycdsc9rC1Z/g==",
+      "path": "system.reactive.core/3.1.1",
+      "hashPath": "system.reactive.core.3.1.1.nupkg.sha512"
+    },
+    "system.reactive.interfaces/3.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-aNVY3QoRznGFeQ+w+bMqhD8ElNWoyYq+7XTQIoxKKjBOyTOjUqIMEf1wvSdtwC4y92zg2W9q38b4Sr6cYNHVLg==",
+      "path": "system.reactive.interfaces/3.1.1",
+      "hashPath": "system.reactive.interfaces.3.1.1.nupkg.sha512"
+    },
+    "system.reactive.linq/3.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HwsZsoYRg51cLGBOEa0uoZ5+d4CMcHEg/KrbqePhLxoz/SLA+ULISphBtn3woABPATOQ6j5YgGZWh4jxnJ3KYQ==",
+      "path": "system.reactive.linq/3.1.1",
+      "hashPath": "system.reactive.linq.3.1.1.nupkg.sha512"
+    },
+    "system.reactive.platformservices/3.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jCJ3iGDLb4duOxZ/Uo3O7PssWE48uRp0fw92AlIwrMNaZRUmZNkZyqbl0nUT+joFARBYun8XiVIDQreMJKBedA==",
+      "path": "system.reactive.platformservices/3.1.1",
+      "hashPath": "system.reactive.platformservices.3.1.1.nupkg.sha512"
+    },
+    "system.runtime.interopservices.windowsruntime/4.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-oIIXM4w2y3MiEZEXA+RTtfPV+SZ1ymbFdWppHlUciNdNIL0/Uo3HW9q9iN2O7T7KUmRdvjA7C2Gv4exAyW4zEQ==",
+      "path": "system.runtime.interopservices.windowsruntime/4.0.1",
+      "hashPath": "system.runtime.interopservices.windowsruntime.4.0.1.nupkg.sha512"
+    },
+    "system.runtime.serialization.formatters/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-KT591AkTNFOTbhZlaeMVvfax3RqhH1EJlcwF50Wm7sfnBLuHiOeZRRKrr1ns3NESkM20KPZ5Ol/ueMq5vg4QoQ==",
+      "path": "system.runtime.serialization.formatters/4.3.0",
+      "hashPath": "system.runtime.serialization.formatters.4.3.0.nupkg.sha512"
+    },
+    "system.runtime.serialization.primitives/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Wz+0KOukJGAlXjtKr+5Xpuxf8+c8739RI1C+A2BoQZT+wMCCoMDDdO8/4IRHfaVINqL78GO8dW8G2lW/e45Mcw==",
+      "path": "system.runtime.serialization.primitives/4.3.0",
+      "hashPath": "system.runtime.serialization.primitives.4.3.0.nupkg.sha512"
+    },
+    "system.xml.xmldocument/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-lJ8AxvkX7GQxpC6GFCeBj8ThYVyQczx2+f/cWHJU8tjS7YfI6Cv6bon70jVEgs2CiFbmmM8b9j1oZVx0dSI2Ww==",
+      "path": "system.xml.xmldocument/4.3.0",
+      "hashPath": "system.xml.xmldocument.4.3.0.nupkg.sha512"
+    }
+  }
+}
